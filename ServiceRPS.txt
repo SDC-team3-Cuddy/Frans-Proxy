@@ -1,0 +1,15 @@
+Started phase 0 (Warm up), duration: 60s @ 18:10:56(-0500) 2020-12-11
+Report @ 18:11:06(-0500) 2020-12-11
+Elapsed time: 10 seconds
+  Scenarios launched:  7094
+  Scenarios completed: 6554
+  Requests completed:  6554
+  Mean response/sec: 709.2
+  Response time (msec):
+    min: 6.3
+    max: 1253.9
+    median: 36.2
+    p95: 607.2
+    p99: 1244.6
+  Codes:
+    200: 6554
