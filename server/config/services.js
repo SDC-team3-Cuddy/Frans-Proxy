@@ -42,7 +42,7 @@
 
 module.exports = {
   service1: {
-    api: '/api',
+    api: '/api/item',
     url: 'http://172.31.46.126:80',
     bundle: 'bundle.js',
   },
